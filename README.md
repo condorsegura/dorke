@@ -1,2 +1,0 @@
-# dorke
-dorke udime
