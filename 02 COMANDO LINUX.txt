@@ -1,0 +1,133 @@
+lista pagot = apt list
+
+fazendo oupdate = apt update
+
+limpa tela = clear
+
+instalaçao = apt install nano
+
+ver o que tem dentro do diretorio = ls ou ls-1
+
+remove arquivo = apt remove (nome do arquivo)
+
+ver diretorio comprevilegio = ls-l
+
+ver o diretorio que quizer = dc/ (nome)
+
+volta de diretorio = cd..
+
+i para o diretorio home = cd ~
+
+para o root = pwd
+
+cria pasta = mkdir (nome da pasta)
+
+renomea e move  = mv
+
+cria arquivo = touch (nome do aquivo).txt
+
+cria vario aquivo de vez = touch (nome).txt (nome.txt....
+
+remover arquivo = rm (nome).txt ou * pra tudo 
+
+remove direorio = rm -r (nome)
+
+cria arquivo = nano
+
+para visualisa aquivo = cat (nome).txt
+
+visualiza dentrodo arquivo = cat /etc /(nome do aquivo)
+
+concatena ou trasferi aquivo = cat (nome do aquivo) > (NOVO nome).txt
+
+localiza palavra no aquivo = grep (nome) (nome do aquivo).txt
+
+verifica aquivo ocuto = find ou ls -a
+
+verifica todo aquivo = find -type f 
+
+verifica todo diretorio = find -type d
+
+visualisa os processo do pc = ps 
+
+apaga processo dopc = kill (nome)
+
+verifica usuario = whoami
+
+cria usuario = useradd -m( nome )
+
+modifica ususario = usermod
+
+deleta usuario =  userdel
+
+locar com outro usuario = docker exec -it -u (nome) (aid do usuario) bash
+
+lista container = docker ps
+
+acessa pasta de senha criptografada = cat/etc/shadow
+
+sai = exit
+
+visualiza grupo = cat/ect/group
+
+adiciona group = groupadd (nome)
+
+ve lista de comando = usermod
+
+adicionaumgroup eoutro = usermod -g (nome) (nome)
+
+troca permiçao = chmod u+x (nome do aquivo).txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
